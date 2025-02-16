@@ -1,4 +1,6 @@
 🌦 Weather App
+
+
 A simple weather forecast web application that provides real-time weather updates for any city. The app fetches weather data using the OpenWeatherMap API and dynamically updates the UI with relevant weather information.
 
 🚀 Features
